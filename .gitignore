@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+test.go
+testDB_connection.js
